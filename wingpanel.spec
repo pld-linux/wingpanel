@@ -10,7 +10,7 @@ Source0:	https://launchpad.net/wingpanel/0.x/%{version}-%{subver}/+download/%{na
 # Source0-md5:	2bbeb2c1b9adb580e246580a493e4a0d
 URL:		https://launchpad.net/wingpanel/
 BuildRequires:	cmake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	glib2-devel
 BuildRequires:	granite-devel
 BuildRequires:	gtk+3-devel
